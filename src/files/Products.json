@@ -1,0 +1,112 @@
+[
+	{
+		"title": "Ferrari F8",
+		"description": "Auto deportivo de alta velocidad y diseño aerodinámico de la marca Ferrari",
+		"code": "FR001",
+		"price": 500000,
+		"stock": 10,
+		"category": "vehículo",
+		"thumbnail": "https://ejemplo.com/ferrari_f8.jpg",
+		"status": true,
+		"id": 1
+	},
+	{
+		"title": "Jeep Wrangler",
+		"description": "Camioneta todoterreno con tracción 4x4 para terrenos difíciles de la marca Jeep",
+		"code": "JP001",
+		"price": 60000,
+		"stock": 8,
+		"category": "vehículo",
+		"thumbnail": "https://ejemplo.com/jeep_wrangler.jpg",
+		"status": true,
+		"id": 2
+	},
+	{
+		"title": "Toyota Corolla",
+		"description": "Auto compacto de alta calidad y rendimiento de la marca Toyota",
+		"code": "TY001",
+		"price": 25000,
+		"stock": 15,
+		"category": "vehículo",
+		"thumbnail": "https://ejemplo.com/toyota_corolla.jpg",
+		"status": true,
+		"id": 3
+	},
+	{
+		"title": "BMW X5",
+		"description": "SUV de lujo y alto rendimiento de la marca BMW",
+		"code": "BM001",
+		"price": 80000,
+		"stock": 6,
+		"category": "vehículo",
+		"thumbnail": "https://ejemplo.com/bmw_x5.jpg",
+		"status": true,
+		"id": 4
+	},
+	{
+		"title": "Ford Mustang",
+		"description": "Auto deportivo clásico de la marca Ford",
+		"code": "FD001",
+		"price": 45000,
+		"stock": 12,
+		"category": "vehículo",
+		"thumbnail": "https://ejemplo.com/ford_mustang.jpg",
+		"status": true,
+		"id": 5
+	},
+	{
+		"title": "Chevrolet Silverado",
+		"description": "Camioneta pickup de gran tamaño de la marca Chevrolet",
+		"code": "CH001",
+		"price": 55000,
+		"stock": 9,
+		"category": "vehículo",
+		"thumbnail": "https://ejemplo.com/chevrolet_silverado.jpg",
+		"status": true,
+		"id": 6
+	},
+	{
+		"title": "Mercedes-Benz S-Class",
+		"description": "Auto de lujo de alta gama de la marca Mercedes-Benz",
+		"code": "MB001",
+		"price": 100000,
+		"stock": 4,
+		"category": "vehículo",
+		"thumbnail": "https://ejemplo.com/mercedes_sclass.jpg",
+		"status": true,
+		"id": 7
+	},
+	{
+		"title": "Harley-Davidson Iron 883",
+		"description": "Motocicleta de estilo clásico y potente motor de la marca Harley-Davidson",
+		"code": "HD001",
+		"price": 12000,
+		"stock": 5,
+		"category": "motocicleta",
+		"thumbnail": "https://ejemplo.com/harley_davidson_iron_883.jpg",
+		"status": true,
+		"id": 8
+	},
+	{
+		"title": "Ducati Panigale V4",
+		"description": "Motocicleta deportiva de altas prestaciones y diseño italiano de la marca Ducati",
+		"code": "DC001",
+		"price": 30000,
+		"stock": 3,
+		"category": "motocicleta",
+		"thumbnail": "https://ejemplo.com/ducati_panigale_v4.jpg",
+		"status": true,
+		"id": 9
+	},
+	{
+		"title": "BMW R 1250 GS",
+		"description": "Motocicleta de aventura con motor boxer de la marca BMW",
+		"code": "BM002",
+		"price": 20000,
+		"stock": 7,
+		"category": "motocicleta",
+		"thumbnail": "https://ejemplo.com/bmw_r1250gs.jpg",
+		"status": true,
+		"id": 10
+	}
+]
